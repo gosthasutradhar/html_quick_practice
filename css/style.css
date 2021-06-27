@@ -1,11 +1,8 @@
-*{
-	margin: 0;
-	padding: 0;
-}
+
 /*header CSS start*/
 header{
 	width: 100%;
-   border-bottom: 1px solid gray;
+   border-bottom: 1px solid #e5e1e1;
 
 }
 .container{
@@ -32,6 +29,7 @@ header{
 }
 .menu ul {
 	float: right;
+
 }
 .menu ul li{
 	float: left;
@@ -143,7 +141,7 @@ header{
 }
 .s_single{
 	float: left;
-    width: 25.317%;
+    width: 25%;
     /*border: 1px solid;*/
     padding: 45px 42px;
     margin-right: 20px;
